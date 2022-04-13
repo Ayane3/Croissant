@@ -1,0 +1,12 @@
+h1,
+p {
+  text-align: center;
+}
+
+.multiple-links {
+  display: flex;
+  justify-content: center;
+}
+.multiple-links a {
+  margin: 20px;
+}
